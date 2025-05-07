@@ -9,7 +9,7 @@ fi
 
 # Clona il repository pubblico AI Commander
 echo "Clonazione del repository AI Commander..."
-git clone https://github.com/tuo-username/AI-Commander-Public.git
+git clone https://github.com/elia0x01/AI-Commander-Public.git
 
 # Controlla se il clone è riuscito
 if [ ! -d "AI-Commander-Public" ]; then
